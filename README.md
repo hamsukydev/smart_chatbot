@@ -1,6 +1,6 @@
 # Chatbot Deployment with Flask and JavaScript
 
-(https://github.com/hamsukydev/pytorch-chatbot) 
+(https://github.com/hamsukydev/smart_chatbot) 
 
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
